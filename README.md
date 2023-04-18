@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+front end github repository link 
+back end github repository link https://github.com/kaycodeandsing/budget-app-backend
+trello workspace link https://trello.com/b/fYyfVNiI/budget-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
