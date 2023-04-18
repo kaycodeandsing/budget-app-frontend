@@ -1,8 +1,9 @@
-front end github repository link 
+front end github repository link https://github.com/kaycodeandsing/budget-app-frontend
 back end github repository link https://github.com/kaycodeandsing/budget-app-backend
 trello workspace link https://trello.com/b/fYyfVNiI/budget-app
 
-
+Back end deploy render link = https://budget-app-backend-7dhp.onrender.com
+Front end deploy netlify link = 
 
 
 ## Available Scripts
